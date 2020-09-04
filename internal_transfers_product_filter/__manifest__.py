@@ -25,7 +25,7 @@
     'summary': 'Stock Internal Transfers Product Filter',
     'version': '1.0',
     'description': """Stock Internal Transfers Product Filter""",
-    'author': 'Ananthu',
+    'author': 'CodersFort',
     'maintainer': 'Ananthu',
     'website': 'http://codersfort.com',
     'license': 'AGPL-3',
