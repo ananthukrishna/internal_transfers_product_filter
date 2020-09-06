@@ -28,6 +28,7 @@
     'author': 'CodersFort',
     'maintainer': 'Ananthu Krishna',
     'website': 'http://codersfort.com',
+    'images': ['images/internal_transfers_product_filter.png'],
     'license': 'AGPL-3',
     'category': 'Warehouse',
     'depends': [
